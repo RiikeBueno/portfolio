@@ -138,7 +138,7 @@ body{
     }
 }
 
-@media (max-width: 377px){
+@media (max-width: 500px){
     .apresentacao__links__navegacao{
         font-size: 1rem;
     }
