@@ -137,3 +137,9 @@ body{
         width: auto;
     }
 }
+
+@media (max-width: 377px){
+    .apresentacao__links__navegacao{
+        font-size: 1rem;
+    }
+}
